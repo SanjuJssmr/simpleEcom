@@ -1,0 +1,4 @@
+Simply Easy Learning!
+
+to post =  uploads\one.jpg
+to get and convert = C:\task\taskone\middlewares\uploads\one.jpg 
